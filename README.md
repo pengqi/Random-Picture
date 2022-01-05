@@ -4,7 +4,7 @@
 
 ## 实验地址:
 
-<https://illyasviel.feedia.co/> _(无稳定性保证)_  
+<https://miku.x10.mx/> _(无稳定性保证)_  
 <https://random-picture.vercel.app/> _(部署到 vercel)_  
 >演示中图片来自<https://www.pixiv.net/users/8236670>  
 
